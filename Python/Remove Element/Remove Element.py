@@ -1,4 +1,4 @@
-#Source : https://oj.leetcode.com/problems/remove-element/
+#Source: https://oj.leetcode.com/problems/remove-element/
 #Problem Description:
 '''
 Given an array and a value, remove all instances of that value in place and return the new length.

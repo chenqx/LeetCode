@@ -1,4 +1,4 @@
-//Source : https://oj.leetcode.com/problems/remove-element/
+//Source: https://oj.leetcode.com/problems/remove-element/
 //Problem Description:
 /*
 

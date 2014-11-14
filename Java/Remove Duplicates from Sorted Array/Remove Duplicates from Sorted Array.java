@@ -1,4 +1,4 @@
-//Source : https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/
+//Source: https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/
 //Problem Description:
 /*
 
